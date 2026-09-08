@@ -18,7 +18,7 @@ The scripts expect the following Excel source tables (available as Supplementary
 - Table_S3_invivo_glucoseuptake.xlsx: In vivo subject characteristics and muscle glucose uptake.
 - Table_S4_invivo_phos.xlsx: In vivo phosphoproteomics dataset.
 - Table_S6_invivo_rapamycin_sites.xlsx: In vivo rapamycin-regulated phosphosites across different biopsy conditions.
-- Table_S9_exvivo_sample_key.xlsx: Ex vivo subject characteristics, experimental layout, and sample metadata.
+- Table_S9_exvivo_sample_key.xlsx: Ex vivo subject characteristics.
 - Table_S10_exvivo_phos.xlsx: Ex vivo phosphoproteomics dataset.
 
 ## Environment & Dependencies
